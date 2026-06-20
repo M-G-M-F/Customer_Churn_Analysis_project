@@ -73,7 +73,7 @@ pip install -r requirements.txt
 # Make sure churn.csv is in the project root
 
 # Run the notebook
-jupyter notebook DStools_v4.ipynb
+jupyter notebook Customer_Churn_Analysis.ipynb
 ```
 
 ## 👤 Author
